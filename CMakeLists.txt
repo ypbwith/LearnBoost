@@ -47,6 +47,7 @@ link_libraries(
 ${OpenCV_LIBS}
 /root/lib/libncnn/lib/libncnn.a
 /root/lib/libopenblas/lib/libopenblas.a
+
 )
 #============================
 
